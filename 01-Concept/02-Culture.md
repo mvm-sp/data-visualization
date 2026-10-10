@@ -36,7 +36,7 @@ Estudos de psicologia cognitiva mostram que orientais e ocidentais processam cen
 
 • **Pensamento Oriental (Holístico)**: Tende a focar no campo como um todo, nas relações entre os objetos e no contexto do ambiente. Dashboards que mostram o ecossistema completo e as interconexões de fundo podem ser mais intuitivos para esse público
 
-### Foco Holístico vs. Foco Analítico
+### Símbolos e Ícones
 
 Os símbolos que usamos para simplificar dados (pictogramas) mudam drasticamente de significado.
 

@@ -19,8 +19,16 @@ Os dados projetados na tela atingem a retina, onde células fotorreceptoras inic
 
 **Cones S, M e L**: São os três tipos de receptores de cor (sensíveis ao Azul, Verde e Vermelho). O cérebro processa imagens com alto contraste entre esses receptores em menos de 100 milissegundos, antes mesmo de uma decisão consciente do leitor.
 
-    • A Importância do Cinza: Como os bastonetes (percepção de formas/brilho no escuro) e cones trabalham juntos, o cinza é considerado uma das cores mais vitais no design de dados. Ele serve para construir o contexto (linhas de grade, dados secundários), permitindo que cores saturadas se destaquem apenas nos pontos críticos de atenção.
-    • Acessibilidade (Daltonismo): Cerca de 8% dos homens e 1% das mulheres têm limitações nos cones da retina (especialmente na distinção entre verde e vermelho). Testar paletas em simuladores de daltonismo garante que a informação não seja perdida
+    • A Importância do Cinza: Como os bastonetes (percepção de formas/brilho no
+     escuro) e cones trabalham juntos, o cinza é considerado uma das cores mais vitais
+     no design de dados. Ele serve para construir o contexto (linhas de grade, dados
+     secundários), permitindo que cores saturadas se destaquem apenas nos pontos
+     críticos de atenção.
+
+    • Acessibilidade (Daltonismo): Cerca de 8% dos homens e 1% das mulheres têm 
+      limitações nos cones da retina (especialmente na distinção entre verde e
+      vermelho). Testar paletas em simuladores de daltonismo garante que a informação
+      não seja perdida
 
 **Colorimetria**
 
@@ -30,7 +38,9 @@ A **colorimetria** tem aplicação em todas as áreas que tem relação com as c
 
 ![espectrofotometria](images/01-03-03.png)
 
-    A espectrofotometria baseia-se na medida quantitativa da absorção da luz pelas soluções, onde a concentração na solução da substância absorvente é proporcional à quantidade de luz absorvida.
+    A espectrofotometria baseia-se na medida quantitativa da absorção da luz pelas 
+    soluções, onde a concentração na solução da substância absorvente é proporcional à
+    quantidade de luz absorvida.
 
 ### Cores
 
