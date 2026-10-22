@@ -95,3 +95,45 @@ Cada tarefa analítica responde a uma pergunta específica sobre os dados. A esc
 ---
 
 **Princípio fundamental da visualização de dados:** primeiro identifique a pergunta analítica que precisa ser respondida; depois escolha a representação visual que torna a resposta mais clara, precisa e fácil de interpretar.
+
+## Resumindo:
+
+### Por que as tarefas analíticas são importantes?
+
+1\. Definem o objetivo da análise
+
+Cada tarefa analítica corresponde a uma pergunta. Comparar indicadores exige uma abordagem diferente daquela utilizada para investigar tendências ou detectar anomalias.
+
+2\. Orientam a escolha do gráfico
+
+A tarefa analítica ajuda a selecionar a representação mais adequada, como barras para comparação, linhas para evolução e mapas para localização.
+
+3\. Facilitam a percepção de padrões
+
+Uma representação adequada permite reconhecer visualmente diferenças, concentrações, associações, tendências e comportamentos incomuns.
+
+4\. Transformam dados em insights
+
+Os gráficos permitem ir além da observação dos valores, ajudando a formular hipóteses, identificar oportunidades e compreender possíveis problemas.
+
+5\. Apoiam a tomada de decisão
+
+Ao tornar os resultados mais compreensíveis, as visualizações ajudam gestores e analistas a priorizar ações, distribuir recursos e acompanhar indicadores de desempenho.
+
+## Relação entre tarefa analítica, pergunta e gráfico
+
+Cada tarefa analítica direciona a atenção para uma característica específica dos dados.
+
+| Tarefa analítica | O que queremos descobrir                           | Representação comum                   |
+| ---------------- | -------------------------------------------------- | ------------------------------------- |
+| Comparação       | Quais valores são maiores ou menores?              | Gráfico de barras                     |
+| Evolução         | Como os valores mudam ao longo do tempo?           | Gráfico de linhas                     |
+| Distribuição     | Como os valores se concentram ou dispersam?        | Histograma ou boxplot                 |
+| Relação          | Como duas variáveis se comportam em conjunto?      | Gráfico de dispersão                  |
+| Composição       | Como as partes formam o total?                     | Barras empilhadas                     |
+| Localização      | Onde os fenômenos acontecem?                       | Mapa temático                         |
+| Hierarquia       | Como os elementos se organizam em níveis?          | Árvore ou treemap                     |
+| Fluxo            | Como pessoas, recursos ou informações se deslocam? | Diagrama Sankey                       |
+| Anomalia         | Quais valores fogem do padrão esperado?            | Gráfico de controle ou série temporal |
+
+É importante observar que uma mesma base de dados pode ser analisada por diferentes perspectivas. A escolha depende da pergunta que orienta a investigação, e não apenas das colunas disponíveis.
