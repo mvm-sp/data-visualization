@@ -86,7 +86,7 @@ Por exemplo, em um gráfico de dispersão, o mapeamento visual pode associar fat
 
 O mapeamento estrutural organiza o significado dos dados; o visual transforma atributos em elementos perceptíveis; e o geográfico associa os dados ao espaço.
 
-## 5. Síntese para fins acadêmicos
+## 5. Resumindo
 
 A relação entre os temas pode ser resumida em três princípios:
 
@@ -94,6 +94,4 @@ A relação entre os temas pode ser resumida em três princípios:
 2. **A visualização torna as relações perceptíveis:** transforma dados organizados em representações que permitem comparar, explorar e interpretar informações.
 3. **A qualidade da decisão depende dos dois processos:** dados corretamente relacionados e visualizações apropriadas aumentam a confiabilidade dos insights.
 
-Em uma disciplina de Visualização de Dados, estudar mapeamento é fundamental porque a escolha de um gráfico não começa pela estética, mas pela compreensão dos dados, de sua estrutura, de seus atributos e da pergunta analítica que se deseja responder.
-
-
+Na atividade de produção Visual de Dados, estudar mapeamento é fundamental porque a escolha de um gráfico não começa pela estética, mas pela compreensão dos dados, de sua estrutura, de seus atributos e da pergunta analítica que se deseja responder.
