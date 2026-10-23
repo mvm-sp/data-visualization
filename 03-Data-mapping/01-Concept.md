@@ -28,7 +28,7 @@ Integrar o mapeamento a uma estratégia de ***GRC- governança, risco e complian
 
 ### 1\. Inventário de dados
 
-Comece listando todos os tipos de dados pessoais que a empresa coleta. Percorra cada departamento e documente formulários, sistemas, planilhas e processos manuais que capturam informações de pessoas físicas.
+Comece listando todos os tipos de dados que a empresa coleta. Percorra cada departamento e documente formulários, sistemas, planilhas e processos manuais que capturam informações de pessoas físicas.
 | Base legal           | Quando aplicar                    | Exemplo                                |
 | -------------------- | --------------------------------- | -------------------------------------- |
 | Consentimento        | Titular autoriza uso específico   | Newsletter, cookies não essenciais     |
@@ -39,7 +39,7 @@ Comece listando todos os tipos de dados pessoais que a empresa coleta. Percorra 
 
 ### 2\. Identificação de fluxos
 
-Documente como cada dado transita dentro da organização. Mapeie a **entrada** (coleta), o **processamento** (uso), o **armazenamento** (repositório), o **compartilhamento** (terceiros) e a **saída** (descarte ou devolução). Esse exercício equivale a realizar um [mapeamento de processos](https://www.docusign.com/pt-br/blog/mapeamento-de-processos-entenda-para-que-serve-e-como-fazer) voltado especificamente para informações pessoais.
+Documente como cada dado transita dentro da organização. Mapeie a **entrada** (coleta), o **processamento** (uso), o **armazenamento** (repositório), o **compartilhamento** (terceiros) e a **saída** (descarte ou devolução). Esse exercício equivale a realizar um **mapeamento de processos** voltado especificamente para informações pessoais.
 
 ### 3\. Definição de responsáveis
 
@@ -75,41 +75,13 @@ A [privacidade de dados](https://www.docusign.com/pt-br/blog/privacidade-dados) 
 
 A [LGPD se abre en una nueva pestaña](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) prevê dez bases legais para tratamento de dados pessoais. As mais utilizadas no contexto empresarial estão na tabela a seguir.
 
-**Base legal**
-
-**Quando aplicar**
-
-**Exemplo**
-
-**Consentimento**
-
-Titular autoriza uso específico
-
-Newsletter, cookies não essenciais
-
-**Execução de contrato**
-
-Necessário para cumprir contrato
-
-Dados de pagamento, entrega
-
-**Legítimo interesse**
-
-Interesse legítimo do controlador
-
-Marketing direto, prevenção à fraude
-
-**Obrigação legal**
-
-Exigência de lei ou regulação
-
-eSocial, obrigações fiscais
-
-**Proteção do crédito**
-
-Análise de crédito
-
-Score de crédito, consultas SPC/Serasa
+| Base legal           | Quando aplicar                    | Exemplo                                |
+| -------------------- | --------------------------------- | -------------------------------------- |
+| Consentimento        | Titular autoriza uso específico   | Newsletter, cookies não essenciais     |
+| Execução de contrato | Necessário para cumprir contrato  | Dados de pagamento, entrega            |
+| Legítimo interesse   | Interesse legítimo do controlador | Marketing direto, prevenção à fraude   |
+| Obrigação legal      | Exigência de lei ou regulação     | eSocial, obrigações fiscais            |
+| Proteção do crédito  | Análise de crédito                | Score de crédito, consultas SPC/Serasa |
 
 Vincular cada tratamento a uma base legal durante o mapeamento evita retrabalho e facilita a elaboração do RIPD.
 
