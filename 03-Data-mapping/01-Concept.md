@@ -29,13 +29,15 @@ Integrar o mapeamento a uma estratégia de ***GRC- governança, risco e complian
 ### 1\. Inventário de dados
 
 Comece listando todos os tipos de dados que a empresa coleta. Percorra cada departamento e documente formulários, sistemas, planilhas e processos manuais que capturam informações de pessoas físicas.
-| Base legal           | Quando aplicar                    | Exemplo                                |
-| -------------------- | --------------------------------- | -------------------------------------- |
-| Consentimento        | Titular autoriza uso específico   | Newsletter, cookies não essenciais     |
-| Execução de contrato | Necessário para cumprir contrato  | Dados de pagamento, entrega            |
-| Legítimo interesse   | Interesse legítimo do controlador | Marketing direto, prevenção à fraude   |
-| Obrigação legal      | Exigência de lei ou regulação     | eSocial, obrigações fiscais            |
-| Proteção do crédito  | Análise de crédito                | Score de crédito, consultas SPC/Serasa |
+
+| Categoria           | Exemplos                       | Sensibilidade |
+| ------------------- | ------------------------------ | ------------- |
+| Dados cadastrais    | Nome, CPF, RG, endereço        | Comum         |
+| Dados financeiros   | Conta bancária, cartão, renda  | Comum         |
+| Dados de saúde      | Atestados, plano de saúde, CID | Sensível      |
+| Dados biométricos   | Digital, reconhecimento facial | Sensível      |
+| Dados de navegação  | IP, cookies, histórico         | Comum         |
+| Dados profissionais | Cargo, salário, avaliações     | Comum         |
 
 ### 2\. Identificação de fluxos
 
