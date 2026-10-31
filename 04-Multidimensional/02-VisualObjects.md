@@ -59,7 +59,7 @@ nas coordenadas paralelas, cada eixo representa uma variável e cada linha repre
 
 O conceito de Small Multiples, também conhecido como Múltiplos Pequenos ou Gráficos de Pequenos Múltiplos, refere-se a uma técnica de visualização de dados que utiliza uma sequência de gráficos semelhantes, organizados em linhas e colunas, para representar diferentes categorias, períodos ou subconjuntos de um conjunto de dados.
 
-Essa técnica foi amplamente difundida por Edward Tufte, especialmente na obra Envisioning Information (1990), como uma abordagem eficaz para facilitar comparações visuais.
+Essa técnica foi amplamente difundida por [Edward Tufte](../anexos/Edward-Tufte.md), especialmente na obra Envisioning Information (1990), como uma abordagem eficaz para facilitar comparações visuais.
 
 ### Princípio fundamental
 
