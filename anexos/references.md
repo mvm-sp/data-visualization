@@ -21,3 +21,5 @@ Referências úteis para o módulo
 [Repositório gráficos em R](https://github.com/holtzy/R-graph-gallery/)
 
 [data-to-viz](https://www.data-to-viz.com/)
+
+[storymaps.arcgis.com](https://storymaps.arcgis.com/stories/0d5fbf2fd22d450c82f6abdb7929594d)
