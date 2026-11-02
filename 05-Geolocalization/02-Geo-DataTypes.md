@@ -24,14 +24,12 @@ Essas possibilidades fundamentam a chamada inteligência geográfica, também co
 Independentemente de sua origem, os dados geoespaciais são frequentemente organizados em dois modelos fundamentais: vetorial e matricial (raster).
 
 ![Geo-DataTypes](images/05-02-01.png)
-
-Dados vetoriais
+*Dados vetoriais*
 
 Representam objetos geográficos por meio de pontos, linhas e polígonos.
 
 ![Geo-DataTypes](images/05-02-02.png)
-
-Dados matriciais (raster)
+*Dados matriciais (raster)*
 
 Representam fenômenos espaciais por uma matriz de células ou pixels associados a valores.
 
@@ -381,7 +379,7 @@ Informações de sensoriamento remoto, monitoramento ambiental e observação da
 
 [Portal do INPE](https://www.gov.br/inpe/pt-br)
 
-### OpenStreetMap
+#### OpenStreetMap
 
 ![OpenStreetMap – Urban Data Analytics, Visualization, & Storytelling 📊📈🏙️](images/05-02-20.png)
 

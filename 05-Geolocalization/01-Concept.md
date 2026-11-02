@@ -35,6 +35,7 @@ Recentemente a **ONU** aprovou uma nova projeção de visualização dos territ�
 ![Comparativo Mercator/Robinson/Equal Earth](images/05-01-01.png)
 
 O novo modelo proposto diminui drasticamente as distorções que já haviam sido minimizadas pelo modelo [Robinson](https://education.nationalgeographic.org/resource/selecting-map-projection/), acrescentando a essa projeção básica um modelo matemático que pode ser reproduzido a partir de qualquer ponto de nossa superficie terrestre, mas não resolve outras distorções como **formas**, **ângulos** e **distâncias**, que sempre são afetadas quando tentamos visualizar nosso planeta em superfícies planas.
+
 ![Esfera para plano](images/05-01-02.png)
 
 Para cada grande desafio de visualização geográfica, a engenharia de dados e o design de infográficos desenvolveram técnicas de mitigação:
