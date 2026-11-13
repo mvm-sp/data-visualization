@@ -193,7 +193,7 @@ Essas obras oferecem fundamentos sobre sistemas de visualização, percepção, 
 
 ## Resumindo
 
-Um gráfico representa dados, enquanto um sistema de visualização organiza recursos computacionais, representacionais e interativos para apoiar um processo de análise.
+Um gráfico representa dados, enquanto um sistema de visualização organiza recursos computacionais, representativos e interativos para apoiar um processo de análise.
 
 A principal contribuição desses sistemas não está apenas em tornar os dados visualmente compreensíveis, mas em permitir que os usuários formulem perguntas, explorem hipóteses, identifiquem relações e produzam conhecimento.
 
