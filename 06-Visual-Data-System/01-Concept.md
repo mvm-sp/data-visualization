@@ -156,7 +156,8 @@ O ser humano utiliza mecanismos perceptivos, memória, conhecimento prévio e ra
 
 Essa relação pode ser expressa conceitualmente por:
 
-**Computação → Representação → Percepção → Cognição → Conhecimento → Decisão**
+
+![do dado  decisão](images/06-01-05.png)
 
 A interpretação também depende do contexto: diferentes usuários podem formular hipóteses distintas diante de uma mesma visualização.
 
